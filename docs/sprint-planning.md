@@ -14,7 +14,11 @@ Feedback sprint review sprint 2 verwerken -->
 ### Aanpak
 De vorige sprint heb je een website voor een opdrachtgever ontworpen en gemaakt. Na 3 weken heb je tijdens de Sprint Review je opdracht laten zien en feedback gekregen. Deze sprint ga je verder met de opdracht en ga je de feedback verwerken.
 
+<<<<<<< HEAD
 Eerst ga je met de studenten die dezelfde opdrachtgever hebben de [Sprint Review bespreken](#1-sprint-review-bespreken), daarna ga je de [opdracht van Sprint 3 plannen](#2-sprint-3-plannen). 
+=======
+Schrijf elke sprint nieuwe code, ook al blijven onderdelen van de website hetzelfde. Dit is even wat werk, maar zo leer je beter coderen en nettere code schrijven.
+>>>>>>> 698c68c4fed6de79126ad103ea1713b0310eddff
 
 #### 1. Sprint Review bespreken
 

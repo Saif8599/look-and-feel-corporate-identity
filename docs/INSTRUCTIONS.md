@@ -20,10 +20,21 @@ Bij FDND begin je elke sprint met nieuwe HTML, CSS (en JS) code. Als je in dezel
 Er worden verschillende workshops aangeboden:
 
 - [Sprint planning](sprint-planning.md)
+<<<<<<< HEAD
 - [User Experience van HTML](user-experience-van-html.md)
 - [Code/Design review toegankelijkheid](code-design-review-toegankelijkheid.md)
 - [Kleur en Contrast](kleur-contrast.md)
 - [Wrap up](wrap-up.md)
+=======
+- [Styleguide](styleguide.md)
+- [Stylesheet](stylesheet.md)
+- [Code/Design review stylesheet](code-design-review-stylesheet.md)
+- [Typografie en EM](typografie-en-em.md)
+- [Formulieren](formulieren.md)
+- [Code/Design review](code-design-review.md)
+- [Layout en compositie](layout-en-compositie.md)
+
+>>>>>>> 698c68c4fed6de79126ad103ea1713b0310eddff
 
 ## Definition of done
 Deze opdracht is done als:
