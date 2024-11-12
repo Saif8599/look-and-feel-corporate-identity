@@ -1,31 +1,25 @@
-# All Human - Accessible Website
+# Look and Feel - Corporate Identity
 
-Ontwerp en maak voor een opdrachtgever een component/pagina/site toegankelijk volgens WCAG richtlijnen.
-
+Ontwerp en maak voor een opdrachtgever een website op basis van een bestaande huisstijl.
 
 ## Context
-Deze leertaak hoort bij Sprint 3: All Human. 
-Dit is een opdracht die je individueel uitvoert voor een opdrachtgever.
 
+Deze leertaak hoort bij Sprint 4 Look and Feel. Dit is een opdracht die je individueel en in een team uitvoert voor een opdrachtgever.
 
 ## Doel van deze opdracht
-Je leert hoe je een (gedeelte van een) website toegankelijk kan ontwerpen, bouwen en testen.
 
+Je leert hoe je een huisstijl kan toepassen en hoe je een styleguide kan ontwerpen, maken en gebruiken.
 
 ## Werkwijze
-Deze leertaak wordt behandeld in Sprint 3. 
 
-Bij FDND begin je elke sprint met nieuwe HTML, CSS (en JS) code. Als je in dezelfde code doorwerkt, wordt het vaak een beetje een zooitje en pas je niet toe wat je in de tussentijd hebt geleerd. Begin dus altijd met nieuwe code schrijven.
+Deze leertaak wordt behandeld in Sprint 4. 
 
-Er worden verschillende workshops aangeboden:
+Nadat je eerst de Sprint planning hebt gedaan, ga je met de studenten die dezelfde opdracht hebben een *styleguide* samenstellen. 
+Het doel is dat jullie gezamenlijk een gedeelde stylesheet gaan maken om te gebruiken in je eigen project.
+
+Deze sprint worden verschillende workshops aangeboden:
 
 - [Sprint planning](sprint-planning.md)
-<<<<<<< HEAD
-- [User Experience van HTML](user-experience-van-html.md)
-- [Code/Design review toegankelijkheid](code-design-review-toegankelijkheid.md)
-- [Kleur en Contrast](kleur-contrast.md)
-- [Wrap up](wrap-up.md)
-=======
 - [Styleguide](styleguide.md)
 - [Stylesheet](stylesheet.md)
 - [Code/Design review stylesheet](code-design-review-stylesheet.md)
@@ -34,13 +28,13 @@ Er worden verschillende workshops aangeboden:
 - [Code/Design review](code-design-review.md)
 - [Layout en compositie](layout-en-compositie.md)
 
->>>>>>> 698c68c4fed6de79126ad103ea1713b0310eddff
 
 ## Definition of done
+
 Deze opdracht is done als:
 
 - [ ] De website staat op GitHub en heeft een live url
-- [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Log
-- [ ] Je hebt een Lighthouse test gedaan en gevonden problemen verholpen
-- [ ] Je hebt een serie handmatige tests gedaan en gevonden problemen verholpen
-- [ ] Je hebt feedback gekregen van de opdrachtgever tijdens de Sprint Review en de feedback gedocumenteerd
+- [ ] Je hebt gestructureerd gewerkt met behulp van de development-lifecycle en je hebt het proces bijgehouden in jouw Learning Journal
+- [ ] Je hebt met een team een styleguide ontworpen en gemaakt
+- [ ] Jouw website voldoet aan de huisstijl van de opdrachtgever
+- [ ] Jouw website maakt gebruik van de stylesheet uit de styleguide
