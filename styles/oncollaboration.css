@@ -1,10 +1,16 @@
+@font-face {
+    font-family: 'VAGRundschriftD';
+    font-style: normal;
+    font-weight: normal;
+    src: url('../assets/fonts/VAGRundschriftD.woff') format('woff');
+}
 
 body{
     padding: 0px;
     box-sizing: border-box;
 
     /* body text */
-    --vag-rund: Arial, Helvetica, sans-serif;
+    --vag-rund: "VAGRundschriftD";
     --open-sans:"Open Sans";
 
     /*font sizes*/
@@ -24,6 +30,7 @@ body{
     --white: #fff;
     --lightred: #F0E5E9;
     --black: #1F000B;
+    --grey: #6A6A6A;
 }
 
 
